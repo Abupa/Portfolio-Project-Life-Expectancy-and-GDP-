@@ -1,12 +1,19 @@
-Project Description:
+1. Project Description:
 This project examines the relationship between life expectancy and GDP levels in different countries. Time series are used to analyze country data over several years.
 
-Tools Used:
+2. Tools Used:
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
 
-Key Findings:
+3. Key Findings:
 - Life expectancy increases with GDP growth
 - Countries with low GDP show lower life expectancy
 - Grouping the data by country allows us to see clear trends between economic development and life expectancy
+
+4. Example visualization (Life Expectancy vs. GDP):
+   
 ![image-gdp lifexp](https://github.com/user-attachments/assets/6e561adf-ce24-4c1e-b7ec-97fb3882cd4b)
+   
+- A scatter plot showing the relationship between life expectancy and GDP across different countries
+- Countries are color-coded to distinguish them
+- The plot highlights how higher GDP often correlates with longer life expectancy
