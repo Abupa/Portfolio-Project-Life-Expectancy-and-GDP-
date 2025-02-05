@@ -12,7 +12,7 @@ This project examines the relationship between life expectancy and GDP levels in
 - Countries with low GDP show lower life expectancy
 - Grouping the data by country allows us to see clear trends between economic development and life expectancy
 
-### **4. Example visualization (Life Expectancy & GDP)**
+### **4. Visualization example (Life Expectancy & GDP)**
    
 ![image-gdp lifexp](https://github.com/user-attachments/assets/6e561adf-ce24-4c1e-b7ec-97fb3882cd4b)
    
